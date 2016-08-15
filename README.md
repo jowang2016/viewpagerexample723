@@ -1,0 +1,2 @@
+# viewpagerexample723
+通过使用viewpager做的小app，模拟器端运行正常
